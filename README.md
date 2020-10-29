@@ -79,3 +79,6 @@ main.exe
 
 ![](https://qiniu.ebounce.cn/blog/20201029200159.png?imageView2/0/q/75%7Cwatermark/2/text/QEVib3VuY2U=/font/5b6u6L2v6ZuF6buR/fontsize/460/fill/IzlFOTc5Nw==/dissolve/50/gravity/SouthEast/dx/10/dy/10%7Cimageslim)
 
+## PS:
+
+上述配置是在调试环境下，如果上线的话只需要在添加机器人到对应群聊之后，修改在调试环境下的webhook地址即可正常使用了
